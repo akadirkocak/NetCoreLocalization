@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/alkinsecurity/.dotnet/store/|arch|/|tfm|",
+      "/Users/alkinsecurity/.nuget/packages"
+    ]
+  }
+}
